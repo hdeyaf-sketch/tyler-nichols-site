@@ -1,0 +1,362 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "tyler-nichols",
+  "name": {
+    "first": "Tyler",
+    "last": "Nichols",
+    "full": "Tyler Nichols",
+    "preferred": "Tyler"
+  },
+  "tagline": "Allergic to second place.",
+  "headline": "Texas Track & Field · Long Jump · High Jump",
+  "eventGroup": "jumps",
+  "events": [
+    "Long jump",
+    "High jump"
+  ],
+  "hometown": "Clinton, Mississippi",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Physical Culture & Sports",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "tynicks00@gmail.com"
+  },
+  "bio": {
+    "short": "Tyler Nichols is a long jumper and high jumper for Texas from Clinton, Mississippi. In 2026 he set the Sun Belt long jump record at 8.19m, won both jumps at the conference meet and became a two-time All-American. He was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Nichols competes in two very different events, the long jump and the high jump, and in 2026 he won both at the Sun Belt Outdoor Championships for Southern Miss. His long jump of 8.19m (26 feet 10.5 inches) broke an 11-year-old conference record and was then the second-best mark in NCAA Division I; he cleared 2.18m to take the high jump. That year he earned USTFCCCA Second-Team All-America honors twice in the long jump: ninth at the NCAA Indoor Championships and 14th at the NCAA Outdoor Championships in Eugene.",
+      "He grew up in Clinton, Mississippi, and started competing in track and field at 13. At Clinton High School he won the MHSAA Class 6A high jump title in 2021 and 2022, and his 6-10 clearance in 2022 ranked No. 1 in the state. He spent three seasons at Southern Miss, where his long jump reached a conference-record 8.19m in 2026, before transferring to Texas for his senior year. His Texas bio says he chose Texas because he loves Texas. He studies Physical Culture & Sports, and away from the track he paints and draws.",
+      "Nichols is direct about his standard. \"Second best, first loser,\" he told WDAM before the 2026 NCAA meet, crediting an upbringing that taught him to be better than he was yesterday. Contesting two events at the same championship means planning warm-ups, attempts and recovery across a multi-day schedule, a discipline that carried over to his 2026 Project Manager Internship at Feniex Industries, the Austin manufacturer of emergency-vehicle lighting, sirens and controllers, where he supported project coordination across teams."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Long jump personal best, Sun Belt record",
+      "value": "8.19m",
+      "note": "Sun Belt Outdoor Championships, 2026"
+    },
+    {
+      "label": "All-America honors in 2026",
+      "value": "2x",
+      "note": "NCAA Indoor (9th) and Outdoor (14th), long jump"
+    },
+    {
+      "label": "High jump personal best",
+      "value": "2.18m",
+      "note": "Sun Belt Outdoor Championships, 2026"
+    },
+    {
+      "label": "Sun Belt outdoor titles at one meet",
+      "value": "2",
+      "note": "Long jump and high jump, 2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "Long jump",
+      "mark": "8.19m (26-10.5)",
+      "meet": "Sun Belt Outdoor Championships",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "High jump",
+      "mark": "2.18m (7-1.75)",
+      "meet": "Sun Belt Outdoor Championships",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "Long jump",
+      "mark": "7.90m (25-11)",
+      "meet": "Music City Challenge",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "High jump",
+      "mark": "2.13m (6-11.75)",
+      "meet": "Sun Belt Indoor Championships",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "60m",
+      "mark": "7.03",
+      "meet": "UAB Green and Gold Invite",
+      "year": "2025",
+      "indoor": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2021–2022",
+      "title": "Two-time state champion",
+      "detail": "Won the MHSAA Class 6A high jump title twice for Clinton High School; his 6-10 in 2022 led Mississippi."
+    },
+    {
+      "year": "2024",
+      "title": "Freshman high jump win",
+      "detail": "Won the high jump at the Music City Challenge (2.08m) as a freshman."
+    },
+    {
+      "year": "2026",
+      "title": "First All-America honor",
+      "detail": "Placed ninth in the long jump at the NCAA Indoor Championships for USTFCCCA Second-Team All-America."
+    },
+    {
+      "year": "2026",
+      "title": "Sun Belt record and double",
+      "detail": "Won the long jump with a conference-record 8.19m and the high jump at 2.18m at the Sun Belt Outdoor Championships."
+    },
+    {
+      "year": "2026",
+      "title": "Two-time All-American",
+      "detail": "Placed 14th in the long jump at the NCAA Outdoor Championships in Eugene for his second All-America honor of the year."
+    },
+    {
+      "year": "2026",
+      "title": "Transfers to Texas",
+      "detail": "Joined the Texas Track & Field roster as a senior for the 2026-27 season."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported project coordination and scheduling at the Austin maker of emergency-vehicle lighting, sirens and controllers."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA Outdoor Second-Team All-American, long jump",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA Indoor Second-Team All-American, long jump",
+      "year": "2026"
+    },
+    {
+      "title": "Sun Belt Outdoor Champion, long jump (conference record)",
+      "year": "2026"
+    },
+    {
+      "title": "Sun Belt Outdoor Champion, high jump",
+      "year": "2026"
+    },
+    {
+      "title": "All-Sun Belt Outdoor First Team, long jump and high jump",
+      "year": "2026"
+    },
+    {
+      "title": "Sun Belt Men's Field Athlete of the Week",
+      "year": "2026"
+    },
+    {
+      "title": "MHSAA Class 6A high jump state champion",
+      "year": "2021, 2022"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "Being second, that's my only motivation, honestly. Second best, first loser, that's what I like to say.",
+      "source": "WDAM 7",
+      "date": "2026-06-09"
+    },
+    {
+      "quote": "I don't like being second. I don't like being anything other than first.",
+      "source": "WDAM 7",
+      "date": "2026-06-09"
+    },
+    {
+      "quote": "I've always been taught to be first, be the best, be better than yourself, better than what you were yesterday.",
+      "source": "WDAM 7",
+      "date": "2026-06-09"
+    }
+  ],
+  "press": [
+    {
+      "title": "Nichols' Record-Breaking Long Jump Leads Golden Eagles in Day Two of Sun Belt Championships",
+      "outlet": "Southern Miss Athletics",
+      "date": "2026-05-15",
+      "url": "https://southernmiss.com/news/2026/5/15/track-field-cross-country-nichols-record-breaking-jump-leads-golden-eagles-in-day-two-of-sun-belt-championships"
+    },
+    {
+      "title": "Southern Miss long jumper Tyler Nichols heads to nationals seeking first-place finish",
+      "outlet": "WDAM 7",
+      "date": "2026-06-09",
+      "url": "https://www.wlox.com/2026/06/10/southern-miss-long-jumper-tyler-nichols-heads-nationals-seeking-first-place-finish/"
+    },
+    {
+      "title": "Nichols Wraps Up Outdoor Season with All-American Performance",
+      "outlet": "Southern Miss Athletics",
+      "date": "2026-06-10",
+      "url": "https://southernmiss.com/news/2026/6/10/track-field-cross-country-nichols-wraps-up-outdoor-season-with-all-american-performance"
+    },
+    {
+      "title": "Nichols Earns Sun Belt Field Athlete of the Week",
+      "outlet": "Southern Miss Athletics",
+      "date": "2026-04-08",
+      "url": "https://southernmiss.com/news/2026/4/8/track-field-cross-country-nichols-earns-sun-belt-field-athlete-of-the-week"
+    },
+    {
+      "title": "Pair of Sun Belt records fall during second day of Sun Belt Outdoor Track & Field Championships",
+      "outlet": "Sun Belt Conference",
+      "date": "2026-05-16",
+      "url": "https://sunbeltsports.org/news/2026/5/16/mens-outdoor-track-and-field-pair-of-sun-belt-records-fall-during-second-day-of-sun-belt-outdoor-track-field-championships.aspx"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Big-meet delivery",
+      "detail": "He set his long jump best and a conference record in a championship final, not a regular-season meet."
+    },
+    {
+      "title": "Double duty",
+      "detail": "He won the long jump and the high jump on back-to-back days at the 2026 Sun Belt Championships."
+    },
+    {
+      "title": "High standards",
+      "detail": "In his own words, he measures himself against first place and against who he was yesterday."
+    },
+    {
+      "title": "Consistency",
+      "detail": "He won the long jump at five meets in 2026, capped by a Sun Belt record 8.19m."
+    }
+  ],
+  "resume": {
+    "summary": "Physical Culture & Sports student and two-time 2026 All-American jumper at The University of Texas at Austin. Project Manager Intern at Feniex Industries (2026). Proven in championship settings, experienced at preparing for two events at one championship and driven by a high personal standard.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Supported cross-functional projects at an American manufacturer of emergency-vehicle lighting, sirens and controllers, working with engineering, production and sales teams.",
+          "Maintained project schedules and status trackers, following up on open items so deadlines and owners stayed visible.",
+          "Helped turn project and operations steps into clear, step-by-step process documentation.",
+          "Used AI tools, including Claude, to organize notes, draft updates and speed up routine documentation."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Major: Physical Culture & Sports",
+        "dates": "2026 – Expected May 2027",
+        "details": [
+          "Texas Track & Field student-athlete (long jump, high jump)"
+        ]
+      },
+      {
+        "school": "The University of Southern Mississippi",
+        "degree": "Undergraduate coursework",
+        "dates": "2023 – 2026",
+        "details": []
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Student-Athlete, Long Jump & High Jump",
+        "org": "Southern Miss Track & Field (Sun Belt)",
+        "dates": "2023 – 2026",
+        "bullets": [
+          "Two-time USTFCCCA Second-Team All-American in the long jump in 2026 (NCAA Indoor, 9th; NCAA Outdoor, 14th).",
+          "Won the 2026 Sun Belt Outdoor long jump with a conference-record 8.19m and the high jump at 2.18m.",
+          "Qualified for NCAA Outdoors with a second-place 8.04m at the 2026 NCAA East First Round.",
+          "Named Sun Belt Men's Field Athlete of the Week (April 2026); won the 2026 Georgia Tech Invitational long jump (8.10m)."
+        ]
+      },
+      {
+        "role": "Student-Athlete, Long Jump & High Jump",
+        "org": "Texas Track & Field (SEC)",
+        "dates": "2026 – Present",
+        "bullets": [
+          "Joined the 2026-27 roster as a senior transfer.",
+          "High school (Clinton HS, Miss.): two-time MHSAA Class 6A high jump champion (2021, 2022); No. 1 in Mississippi at 6-10 in 2022."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Status Tracking",
+        "Process Documentation",
+        "Cross-Functional Communication",
+        "Operations Support",
+        "Goal Setting & Performance Tracking",
+        "Research & Writing"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA Second-Team All-American, Long Jump (Indoor & Outdoor)",
+        "year": "2026"
+      },
+      {
+        "title": "Sun Belt Outdoor Champion, Long Jump (Conference Record) & High Jump",
+        "year": "2026"
+      },
+      {
+        "title": "Sun Belt Men's Field Athlete of the Week",
+        "year": "2026"
+      },
+      {
+        "title": "MHSAA Class 6A High Jump State Champion",
+        "year": "2021, 2022"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Tyler won two different jumps at one championship, which takes more planning than people see. He brought that organized, competitive edge to Feniex. He hates finishing second, in anything, and that is the standard I want on my team.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.49,
+      "y": 0.439,
+      "zoom": 1.14
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg",
+      "action-2.jpg",
+      "action-3.jpg",
+      "action-4.jpg"
+    ],
+    "actionAlt": [
+      "Tyler Nichols in flight during his Sun Belt record long jump at the 2026 Sun Belt Outdoor Championships",
+      "Tyler Nichols long jumps at the 2026 NCAA East First Round in Lexington, Kentucky",
+      "Tyler Nichols mid-air in the long jump for Southern Miss during the 2026 outdoor season",
+      "Tyler Nichols takes off in the high jump at an indoor meet for Southern Miss in 2024"
+    ],
+    "feature": "action-4.jpg",
+    "featureFocus": {
+      "x": 0.5,
+      "y": 0.35
+    }
+  },
+  "photoCredits": [
+    "Southern Miss Athletics",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://tyler-nichols.vercel.app"
+  },
+  "seo": {
+    "title": "Tyler Nichols | Texas Track & Field · Project Management",
+    "description": "Tyler Nichols: Texas long and high jumper, Sun Belt record holder (8.19m), two-time 2026 All-American and Feniex project management intern."
+  },
+  "noindex": true
+}
